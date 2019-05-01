@@ -1,3 +1,9 @@
+# Introduction
+
+This is a sample SAP CAP project where cds.ql.UPDATE does not seem to work. It has been created with sap/cds v3.7.1 using the `init` command.
+
+The entire analysis has been posted here: https://answers.sap.com/questions/12679334/a-bug-in-cdsqlupdate-cannot-get-update-to-work-in.html
+
 # Getting Started
 
 Welcome to your new project. It contains a few files and folders following our **recommended project layout**:
